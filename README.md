@@ -1,4 +1,6 @@
 Hi, I'm @Aprontonix a solo developper who like pingouin
+
+
 ## Coding
 
 I mainly program in Python.
@@ -25,9 +27,10 @@ And I have some basis in these languages :
 
 ## Contact
 You can contact me via :
- - Discord : Aprotonix
  - Mail : aprotonix@gmail.com
- - 
+
+
+[Click here to gain aura](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
 
 <!---
