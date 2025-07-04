@@ -1,4 +1,4 @@
-Hi, I'm @Aprontonix a solo developper who like pingouin
+Hi, I'm @Aprontonix a french solo developper
 
 
 ## Coding
