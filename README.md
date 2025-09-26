@@ -10,9 +10,9 @@ I also master several programming languages:
  - CSS
  - JS
  - C++
- - Scratch (♾️)
+ - Scratch (♾️) 
  - Arduino (C++)
- - MCFunction (✨)
+ - MCFunction (✨) -> https://www.planetminecraft.com/member/aprotonix/
  - Casio Basic
  - Lua (Roblox)
    
@@ -34,6 +34,11 @@ You can contact me via :
   
 
 <!---
-Aprotonix/Aprotonix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+OMG You see my secrets !!!
+Find this : 
+²¾¾º½yy®¼³À¯x±¹¹±¶¯x­¹·y°³¶¯y®y{¬°­µÀ©«¶Á°{­Á·¡ÀÃ~Ã±­¢¾yÀ³¯Á¿½º½²«¼³¸±
+3AE 395 6
+478 692 11
+6E2 577 6
+B5E 4DB 1E
 --->
