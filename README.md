@@ -13,7 +13,7 @@ I also master several programming languages:
  - Scratch (♾️) 
  - Arduino (C++)
  - MCFunction (✨) -> https://www.planetminecraft.com/member/aprotonix/
- - Casio Basic
+ - Casio Basic -> https://www.planet-casio.com/Fr/compte/voir_profil.php?membre=apr0t0nix
  - Lua (Roblox)
    
 And I have some basis in these languages :
